@@ -71,7 +71,7 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 | *Azure Functions* | *Consumption Tier* | *...* |
 | *Storage Accounts* | *Block Blob Storage, General Purpose V2* | *$52.41* |
 
-Refer: AzureExportedEstimate.xlsx
+Refer: https://github.com/nguyentrungmen/mennt1-udacity-project2-techconf-web/blob/2807557b706cf65e270d9d48f7c03b445c0386f8/AzureExportedEstimate.xlsx
 
 ## Architecture Explanation
 
