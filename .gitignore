@@ -1,0 +1,6 @@
+.DS_Store
+function/.venv/
+.vscode/
+function/.funcignore
+function/.python_packages
+web/.deployment
